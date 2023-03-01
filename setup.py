@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='pfiletest',
-    version='0.1.0',    
+    version='0.1.1',    
     description='A example Python package',
     url='https://github.com/VidyaSagarKomhar/pfiletest',
     author='Vidya Sagar',
